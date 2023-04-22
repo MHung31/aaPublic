@@ -1,33 +1,5 @@
 /*
-Purpose
-Player uses numpad to input number and enter and it will "hit" a mole
-in that given space. The space will be a 3 x 3 grid that correspond to
-the numpad. If the player hits, they will gain points, if they miss
-they will not. This is a timed game, and highest points win.
-
-Features
-User can select amount of time they want to play, 30s, 1 min, 2 min
-Different mole types that appear that disappear faster but are worth more
-Time will spead up every 10 seconds
-Create levels
-
-Layout
-3x3 grid
-Score display
-Title
-instruction screen
-
-Icon List
-⬜ - blank space
-🐸 - hit frog
-💥 - successful hit
-👊 - hand
-
-Add
-insert Coin
-Continue? with countdown
-don't hit birds with 1 life chance
-bonus frog counts as 3x points
+Resize your screen so you can just see game board
 
 */
 

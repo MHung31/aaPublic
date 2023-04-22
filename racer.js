@@ -1,16 +1,5 @@
 /*
-Purpose
-Player races in a 3 lane grid
-Player moves left or right to avoid obstacles
-Player will crash if they hit the wall
-
-Setup
-Track is at 3 lanes wide with 2 buffer
-Track is 10 rows long to give player time to react
-Track speeds up over time
-Track player score based on how long they are able to survive
-
-Bugs
+Resize your screen so you can just see track
 
 */
 
