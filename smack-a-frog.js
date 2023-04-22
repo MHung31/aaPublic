@@ -1,5 +1,5 @@
 /*
-Resize your screen so you can just see game board
+Resize your terminal so you can just see game board
 
 */
 
