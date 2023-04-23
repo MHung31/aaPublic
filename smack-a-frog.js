@@ -1,5 +1,10 @@
 /*
-Resize your terminal so you can just see game board
+Resize your terminal so you can just see game board.
+Use numpad to play!
+
+Made by Matthew Hung
+App Academy
+April 2023
 
 */
 

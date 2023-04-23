@@ -1,5 +1,9 @@
 /*
-Resize your terminal so you can just see track
+Resize your terminal so you can just see track.
+
+Made by Matthew Hung
+App Academy
+April 2023
 
 */
 
